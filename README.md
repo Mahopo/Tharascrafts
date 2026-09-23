@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Ramabu Mahopo
 
-**Founder & Director @ ONEGOAL TECHNOLOGIES PTY LTD | IT Professional | Microsoft & Azure | Cloud Solutions | Web Development | Automation**
+**IT Professional | Founder & Director of ONEGOAL TECHNOLOGIES PTY LTD | Microsoft & Azure | Cloud Solutions | Web Development**
 
-I'm a South African IT professional and technology entrepreneur passionate about building practical digital solutions that solve real-world problems.
+I'm a South African IT professional, technology entrepreneur and solution builder with a passion for using technology to solve practical business problems.
 
-Through **ONEGOAL TECHNOLOGIES**, I work across cloud solutions, Microsoft 365, IT support, web development, e-commerce, automation and business technology.
+My work spans **Microsoft technologies, cloud solutions, IT support, SharePoint, Microsoft 365, web development, e-commerce and business automation**.
 
-I'm particularly interested in the intersection of **technology, engineering, entrepreneurship and creativity**.
+I also enjoy building my own technology projects and exploring how software can be applied to real-world problems.
 
 ---
 
@@ -15,35 +15,35 @@ I'm particularly interested in the intersection of **technology, engineering, en
 * ☁️ Microsoft 365 & Cloud Solutions
 * 🔐 Microsoft Azure & Security
 * 🏢 SharePoint & Microsoft Teams
-* ⚙️ IT Infrastructure & Technical Support
+* ⚙️ IT Support & Infrastructure
 * 🌐 Web Development
 * 🛒 E-commerce & Digital Platforms
-* 🤖 Workflow Automation
+* 🤖 Business Process Automation
 * 🐍 Python Development
-* ⚡ Engineering Technology
-* 💡 Digital Transformation
+* 💻 Software & Technology Projects
+* 🚀 Technology Entrepreneurship
 
 ---
 
 ## 🏢 ONEGOAL TECHNOLOGIES
 
-I founded **ONEGOAL TECHNOLOGIES PTY LTD** to help businesses use technology more effectively.
+I am the founder and director of **ONEGOAL TECHNOLOGIES PTY LTD**, a technology company focused on helping businesses use technology effectively.
 
-We provide practical technology solutions across:
+Our services include:
 
-* Microsoft 365
-* SharePoint Online
-* Microsoft Teams
 * Cloud solutions
+* Microsoft 365
+* SharePoint
 * IT support
 * Web development
 * E-commerce
-* Business automation
+* Website hosting
+* Business technology solutions
 * Digital transformation
 
-🌐 [ONEGOAL TECHNOLOGIES](https://www.onegtech.co.za)
+🌐 **[onegtech.co.za](https://onegtech.co.za)**
 
-**YOUR VISION, IS OUR MISSION.**
+> **YOUR VISION, IS OUR MISSION.**
 
 ---
 
@@ -53,26 +53,28 @@ We provide practical technology solutions across:
 ![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?style=flat-square\&logo=microsoftoffice\&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square\&logo=microsoftazure\&logoColor=white)
 ![SharePoint](https://img.shields.io/badge/SharePoint-038387?style=flat-square\&logo=microsoftsharepoint\&logoColor=white)
-![Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=flat-square\&logo=microsoftteams\&logoColor=white)
+![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=flat-square\&logo=microsoftteams\&logoColor=white)
 ![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=flat-square\&logo=powerautomate\&logoColor=white)
-![Entra ID](https://img.shields.io/badge/Microsoft%20Entra-5E5E5E?style=flat-square\&logo=microsoft\&logoColor=white)
+![Microsoft Entra](https://img.shields.io/badge/Microsoft%20Entra-5E5E5E?style=flat-square\&logo=microsoft\&logoColor=white)
 
-My Microsoft-focused work includes:
+Areas I work with include:
 
 * Microsoft 365 administration
-* SharePoint Online solutions
-* Microsoft Teams environments
-* Entra ID and identity management
-* MFA and security configuration
-* Power Automate workflows
+* Microsoft Azure
+* SharePoint Online
+* Microsoft Teams
+* Microsoft Entra ID
+* Identity and access management
+* Multi-factor authentication
+* Power Automate
+* Cloud-based collaboration
 * Business process automation
-* Cloud migration and digital workplace solutions
 
 ---
 
 ## 💻 Development & Technology
 
-### Languages & Development
+### Languages & Frameworks
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
@@ -80,11 +82,11 @@ My Microsoft-focused work includes:
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square\&logo=react\&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
+
+### Tools & Platforms
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
-
-### Platforms & Tools
-
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square\&logo=wordpress\&logoColor=white)
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat-square\&logo=woocommerce\&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square\&logo=powershell\&logoColor=white)
@@ -92,111 +94,110 @@ My Microsoft-focused work includes:
 
 ---
 
-## 🛠️ Projects & Open Source
+## 🛠️ Projects
 
-I enjoy building technology projects that combine software development with practical applications.
+I enjoy building projects that combine software, technology and practical applications.
 
 ### 🗺️ Infrastructure Mapping
 
-A Python-based geospatial project using **OpenStreetMap data** and mapping technologies to identify and visualise infrastructure.
+A Python-based project exploring the use of **OpenStreetMap data and geospatial information** to map infrastructure.
 
-The solution generates **KMZ files** and is designed to be adaptable across different infrastructure applications.
+The project demonstrates how publicly available geographic data can be processed and used to create useful infrastructure maps.
 
-**Technologies:** Python • OpenStreetMap • GIS • Geospatial Data
+**Technologies:** Python • OpenStreetMap • Geospatial Data
 
 ---
 
 ### 🛍️ Thara's Crafts
 
-A digital commerce platform focused on helping businesses access affordable technology products, gadgets and Print On Demand services.
+A digital commerce platform focused on affordable technology products, gadgets and Print On Demand services.
 
-🌐 [tharascrafts.co.za](https://www.tharascrafts.co.za)
+🌐 **[tharascrafts.co.za](https://www.tharascrafts.co.za)**
 
 ---
 
 ### 👕 Ram The G.O.A.T
 
-A custom apparel and fashion technology project combining e-commerce, Print On Demand and personalised product design.
+A custom apparel project combining e-commerce, Print On Demand and personalised clothing designs.
 
-🌐 [apparel.tharascrafts.co.za](https://apparel.tharascrafts.co.za)
+🌐 **[apparel.tharascrafts.co.za](https://apparel.tharascrafts.co.za)**
 
 ---
 
-### 🌐 Web & Digital Platforms
+### 🌐 Web Development
 
-Through ONEGOAL TECHNOLOGIES, I build and manage digital platforms for businesses and organisations across different industries.
+Through ONEGOAL TECHNOLOGIES, I build and manage websites and digital platforms for different types of businesses and organisations.
 
-My work includes:
+My web development work includes:
 
-* Corporate websites
-* Business information platforms
-* E-commerce
+* Business websites
 * WordPress development
-* Custom web solutions
-* Website hosting and maintenance
-* Digital business solutions
+* E-commerce
+* Custom HTML/CSS/JavaScript
+* Website hosting
+* Website maintenance
+* Digital business platforms
+
+🌐 **[ONEGOAL TECHNOLOGIES](https://onegtech.co.za)**
 
 ---
 
-## ⚡ Engineering + Technology
+## ⚡ IT + Engineering Exposure
 
-My background also connects **IT with engineering and power systems technology**.
+My professional background is primarily in **Information Technology**, with additional exposure to engineering and electrical infrastructure environments.
 
-Areas I've worked with and explored include:
+Through my experience, I have gained practical exposure to:
 
-* Electrical power systems
-* SCADA
-* Power-system communications
-* Modbus
-* Engineering drawings
+* Electrical engineering project environments
+* Power-system infrastructure and documentation
 * AutoCAD
 * MicroStation
 * Primtech
-* Electrical infrastructure
-* Engineering technology
+* SCADA environments
+* Modbus communication and device configuration
+* Engineering drawings and technical documentation
 
-I enjoy finding ways to combine software, cloud technology and engineering to create practical solutions.
+My interest is in understanding how **IT, software and digital technologies can support engineering and infrastructure projects**.
 
 ---
 
-## 🏆 Recognition & Milestones
+## 🎓 Education & Certifications
 
-* 🎓 National Diploma & BTech in Information Technology
-* ☁️ Microsoft Azure Certified
+* 🎓 National Diploma in Information Technology
+* 🎓 BTech in Information Technology
+* ☁️ Microsoft Azure Certification
 * 🔐 Microsoft Security certification
-* 💼 Founder & Director of ONEGOAL TECHNOLOGIES PTY LTD
-* 🏆 **Geekulcha Top 15 Young Geeks — Class of 2026**
-* 🚀 TotalEnergies 100 Startupper finalist
-* 🏆 NYDA entrepreneurship competition winner
-* 🏆 MAXIM Pitch competition winner
-* 💡 Technology entrepreneur
-* ⚡ IT & engineering technology experience
-* 🌍 Passionate about digital skills development and closing the digital divide
-
-### ⭐ Featured by Geekulcha
-
-I was selected among the **Top 15 Young Geeks — Class of 2026** by Geekulcha, recognising young African technology innovators and their work across technology and innovation.
-
-👉 [View my Geekulcha profile](https://www.geekulcha.dev/young-geeks/ramabu-mahopo?fers=fuCO26FSDAz6HSArBpc9)
 
 ---
 
-## 🌍 Beyond Technology
+## 🏆 Recognition
 
-Technology is only part of what drives me.
+### ⭐ Geekulcha Top 15 Young Geeks — Class of 2026
 
-I'm passionate about:
+Selected among the **Top 15 Young Geeks — Class of 2026** by Geekulcha.
+
+🔗 **[View my Geekulcha profile](https://www.geekulcha.dev/young-geeks/ramabu-mahopo?fers=fuCO26FSDAz6HSArBpc9)**
+
+### 🚀 TotalEnergies 100 Startuppers
+
+Recognised as a finalist in the **TotalEnergies 100 Startuppers** programme.
+
+---
+
+## 🌍 What I'm Passionate About
+
+Beyond technology, I'm passionate about:
 
 * 🚀 Entrepreneurship
-* 🎨 Creativity and design
-* 👕 Fashion technology
-* ⚡ Engineering
-* 🌍 African innovation
+* 💡 Innovation
+* 🌍 African technology and innovation
 * 👨‍💻 Youth skills development
-* 💡 Building practical solutions
-* 📈 Helping businesses grow through technology
+* 🎨 Creativity and design
+* ⚡ Engineering technology
+* 🛍️ E-commerce
+* 💻 Building practical digital solutions
 
-I believe technology should create opportunities, develop skills and solve meaningful problems.
+I'm particularly interested in using technology to create opportunities, develop skills and help reduce the digital divide.
 
 ---
 
@@ -208,16 +209,16 @@ I believe technology should create opportunities, develop skills and solve meani
 
 ## 🤝 Let's Connect
 
-I'm always interested in connecting with people working on technology, engineering, entrepreneurship and open-source projects.
+I'm always open to connecting with people interested in technology, software development, cloud computing, entrepreneurship, engineering technology and open-source projects.
 
-* 💼 [LinkedIn](https://www.linkedin.com/in/ramabu-mahopo/)
-* 🌐 [ONEGOAL TECHNOLOGIES](https://www.onegtech.co.za)
-* 🏆 [Geekulcha — Top 15 Young Geeks 2026](https://www.geekulcha.dev/young-geeks/ramabu-mahopo?fers=fuCO26FSDAz6HSArBpc9)
-* 🛍️ [Thara's Crafts](https://www.tharascrafts.co.za)
-* 👕 [Ram The G.O.A.T](https://apparel.tharascrafts.co.za)
-* 🐦 [X / Twitter](https://twitter.com/OnlyRamabu)
-* 📸 [Instagram](https://www.instagram.com/ramabu)
-* 📧 [Email](mailto:ramabu@onegtech.co.za)
+* 💼 **[LinkedIn](https://www.linkedin.com/in/ramabu-mahopo/)**
+* 🌐 **[ONEGOAL TECHNOLOGIES](https://onegtech.co.za)**
+* 🏆 **[Geekulcha Profile](https://www.geekulcha.dev/young-geeks/ramabu-mahopo?fers=fuCO26FSDAz6HSArBpc9)**
+* 🛍️ **[Thara's Crafts](https://www.tharascrafts.co.za)**
+* 👕 **[Ram The G.O.A.T](https://apparel.tharascrafts.co.za)**
+* 🐦 **[X / Twitter](https://twitter.com/OnlyRamabu)**
+* 📸 **[Instagram](https://www.instagram.com/ramabu)**
+* 📧 **[Email](mailto:ramabu@onegtech.co.za)**
 
 ---
 
