@@ -3,7 +3,7 @@
 - 👀 I’m interested in web or mobile development, data science, and open-source projects.
 - 🌱 I’m currently learning full-stack development with a focus on React, Node.js and MongoDB.
 - 💞️ I’m looking to collaborate on innovative web or mobile applications, data analysis projects, and open-source initiatives.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ramabu-mahopo/) | [Email](mailto:ramabu.mahopo@example.com)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ramabu-mahopo/) | [Email](mailto:ramabu@onegtech.co.za)
 - 😄 Pronouns: He/Him
 
 
